@@ -1,0 +1,5 @@
+{
+  "storageFile": "Emem_Onis_books.json",
+  "adapterFile": "bookAdapter.js",
+  "key": "bookID"
+}

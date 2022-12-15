@@ -1,0 +1,58 @@
+[
+    {
+        "bookID": 6,
+        "name": "The adventures of Mike the Millipede",
+        "author": "Felix Harris",
+        "type": "hardcover",
+        "topic": "inventions"
+    },
+    {
+        "bookID": 1,
+        "name": "SQL-mysteries",
+        "author": "Antony Lee",
+        "type": "softcover",
+        "topic": "History"
+    },
+    {
+        "bookID": 2,
+        "name": "Databases - The rise and fall",
+        "author": "Isla Shore",
+        "type": "e-book",
+        "topic": "databases"
+    },
+    {
+        "bookID": 3,
+        "name": "Rebellion of Sophie Q. Lister",
+        "author": "Layla Jones",
+        "type": "leaflet",
+        "topic": "Future SQL"
+    },
+    {
+        "bookID": 7,
+        "name": "Maria and My",
+        "author": "Emily White",
+        "type": "magazine",
+        "topic": "Gaming"
+    },
+    {
+        "bookID": 5,
+        "name": "NoSql - New Hope",
+        "author": "Jesse River",
+        "type": "pocketbook",
+        "topic": "mystery"
+    },
+    {
+        "bookID": 4,
+        "name": "Hacking databases",
+        "author": "Matt Wilson",
+        "type": "print-on-demand",
+        "topic": "Computers"
+    },
+    {
+        "bookID": 8,
+        "name": "React with Margit",
+        "author": "Margit Tennosar",
+        "type": "e-book",
+        "topic": "Computers"
+    }
+]
